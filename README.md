@@ -2,7 +2,7 @@
 
 Copyright (C) 2016  Jamil Navarro
 
-== Utilities to parse CK2 save files
+## Utilities to parse CK2 save files
 
  - ck2_to_xml reads a CK2 saved game and parses it to XML.
 
