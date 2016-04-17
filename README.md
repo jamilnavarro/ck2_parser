@@ -5,6 +5,7 @@ Copyright (C) 2016  Jamil Navarro
 ## Utilities to parse CK2 save files
 
  - ck2_to_xml reads a CK2 saved game and parses it to XML.
+ - ck2_file_parser reads a CK2 saved game and loads it into a database.
 
 This program is free software; you can redistribute it and/or
 modify it under the terms of the GNU General Public License
