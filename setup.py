@@ -9,8 +9,9 @@ setup(
     author_email='jamilnavarro@gmail.com',
     license='GPL',
     packages=['ck2_parser'],
-    entry_points = { 
+    entry_points={ 
         'console_scripts' : ['ck2_file_parser=ck2_parser.command_line:main']
     },
+    install_requires=['sqlite3'],
     zip_safe=False
 )
